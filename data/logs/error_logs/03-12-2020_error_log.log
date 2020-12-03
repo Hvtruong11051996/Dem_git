@@ -1,3 +1,0 @@
-[Thu, 03 Dec 2020 08:38:14 +0700] [localhost] [::1] [User Notice(1024): SQLSTATE[HY000] [1049] Unknown database 'classt3h1'] [FILE: /vendor/vinades/nukeviet/Core/Database.php] [LINE: 85]
-[Thu, 03 Dec 2020 09:26:33 +0700] [localhost] [::1] [Warning(2): mysqli_connect(): (HY000/1049): Unknown database 'thuchanh'] [FILE: /modules/album/admin.functions.php] [LINE: 21]
-[Thu, 03 Dec 2020 09:28:34 +0700] [localhost] [::1] [Warning(2): file_get_contents(C:/xampp/htdocs/classt3h1/themes//modules/album\main.tpl): failed to open stream: No such file or directory] [FILE: /includes/xtemplate.class.php] [LINE: 1395]
